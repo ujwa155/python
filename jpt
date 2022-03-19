@@ -1,0 +1,4 @@
+#buggy python code
+for i in range(100):
+  for j in range(0,i):
+    print("infinite loop")
